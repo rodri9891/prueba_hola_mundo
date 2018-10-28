@@ -17,8 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Aprende REACT y Hello MOTO ROCKER Z6!!
-      se viene el cambio ??
+      cambio de branch exitoso.. !!
           </a>
         </header>
       </div>
